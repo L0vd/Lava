@@ -11,7 +11,7 @@ If you want to setup Lava fullnode manually follow the steps below
 sudo apt update && sudo apt upgrade -y
 ```
 
-## Intsall GO
+## Install GO
 ```
 if ! [ -x "$(command -v go)" ]; then
   ver="1.18.3"
