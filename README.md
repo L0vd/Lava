@@ -5,7 +5,7 @@
 <a href="https://l0vd.com/" target="_blank">Visit our website <img src="https://raw.githubusercontent.com/L0vd/screenshots/main/L0vd.png" width="30"/></a>
 </p>
 
-## L0vd Services for the Ollo Community
+## L0vd Services for the Lava Community
 
 ## :heart: Node installation guide
 https://github.com/L0vd/Lava/tree/main/Node_installation_guide
