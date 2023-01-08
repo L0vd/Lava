@@ -62,8 +62,8 @@ lavad init $NODENAME --chain-id $CHAIN_ID
 
 ## Download genesis and addrbook
 ```
-wget -O $HOME/.lava/config/genesis.json "https://raw.githubusercontent.com/L0vd/Lava//Node_installation_guide/genesis.json"
-wget -O $HOME/.lava/config/addrbook.json "https://raw.githubusercontent.com/L0vd/Lava//Node_installation_guide/addrbook.json"
+wget -O $HOME/.lava/config/genesis.json "https://raw.githubusercontent.com/L0vd/Lava/main/Node_installation_guide/genesis.json"
+wget -O $HOME/.lava/config/addrbook.json "https://raw.githubusercontent.com/L0vd/Lava/main/Node_installation_guide/addrbook.json"
 ```
 
 ## (OPTIONAL) Set custom ports
