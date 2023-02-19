@@ -23,9 +23,9 @@ https://github.com/L0vd/Lava/tree/main/StateSync
 https://github.com/L0vd/Lava/tree/main/Lava_wallet_bot
 
 ## :heart: Public RPC endpoint
-http://135.181.178.53:56657/
+https://lava-testnet.rpc.l0vd.com
 
 ## :heart: Public API
-http://135.181.178.53:51317/
+https://lava-testnet.api.l0vd.com
 
 
