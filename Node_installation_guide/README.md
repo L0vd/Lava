@@ -35,7 +35,7 @@ git checkout v0.8.1
 make build
 lavad version
 # You should see 0.8.1
-mv build/lavad  $HOME/go/bin/
+mv build/lavad $HOME/go/bin/
 ```
 
 
