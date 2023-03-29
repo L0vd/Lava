@@ -26,17 +26,6 @@ fi
 ```
 
 ## Install node
-### :exclamation: **At Block 838 you should upgrade node to v0.4.0** :exclamation:
-```
-cd $HOME
-git clone https://github.com/K433QLtr6RA9ExEq/GHFkqmTzpdNLDd6T.git
-wget https://lava-binary-upgrades.s3.amazonaws.com/testnet/v0.3.0/lavad
-chmod +x lavad
-mv lavad $HOME/go/bin/
-lavad version
-```
-
-### Upgrade node at 838 block (You will see "ERR UPGRADE "v0.4.0" NEEDED at height: 838" error in your logs)
 ```
 cd $HOME
 rm -rf lava
