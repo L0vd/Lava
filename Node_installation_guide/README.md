@@ -39,12 +39,14 @@ lavad version
 ### Upgrade node at 838 block (You will see "ERR UPGRADE "v0.4.0" NEEDED at height: 838" error in your logs)
 ```
 cd $HOME
-git clone https://github.com/K433QLtr6RA9ExEq/GHFkqmTzpdNLDd6T.git
-wget https://lava-binary-upgrades.s3.amazonaws.com/testnet/v0.4.0/lavad
-chmod +x lavad
-mv lavad $HOME/go/bin/
+rm -rf lava
+git clone https://github.com/lavanet/lava.git
+cd lava
+git checkout v0.8.1
+make build
 lavad version
-# You should see 0.4.0-rc2-e2c69db
+# You should see 0.8.1
+mv build/lavad  $HOME/go/bin/
 ```
 
 
